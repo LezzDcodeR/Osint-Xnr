@@ -1,5 +1,5 @@
-- SIMPLE OSINT TOOLS CREATED BY XNR TEAM
-COMMAND TO RUN THIS TOOLS
+# SIMPLE OSINT TOOLS CREATED BY XNR TEAM
+# COMMAND TO RUN THIS TOOLS
 - $ pkg update && pkg upgrade
 - $ pkg install nodejs
 - $ pkg install git
